@@ -1,0 +1,199 @@
+---
+title: "Alice’s Adventures in Wonderland"
+author: Lewis Carroll
+image: cover.jpg
+format:
+  closeread-html:
+    cr-section:
+      layout: "overlay-center"
+
+    css: styles.css
+    remove-header-space: false
+    mainfont: 'et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif'
+    cr-style:
+      narrative-background-color-overlay: transparent
+      narrative-background-color-sidebar: transparent
+      section-background-color: transparent
+      narrative-text-color-overlay: black
+      narrative-font-family: 'et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif'
+---
+
+
+:::{.cr-section}
+[@cr-rabbit-clock]  
+
+The light has come to find you again, even on the far side  
+of the waking world, look inland and you catch the dark  
+interior core of what only looks like an empty centre,
+
+look outward and you see the tidal run of ocean stretching
+forever from the shore on which you stand, above all
+and across both, newness and the unimaginably ancient,
+
+
+singing together, and then everywhere, light painted on light,
+in the sky, on the ground and in the faces of those looking
+not at you but through you, to the beckoning horizon,
+
+
+look outward and you see the tidal run of ocean stretching
+forever from the shore on which you stand, above all
+and across both, newness and the unimaginably ancient,
+
+singing together, and then everywhere, light painted on light,
+in the sky, on the ground and in the faces of those looking
+not at you but through you, to the beckoning horizon,
+
+to the pale night of a southern sapphire sky, or even beneath you,
+through the dust of the endless earth, to the dream-time
+in the mind’s eye of what has happened and what is about
+to happen, even in the crowded cities, even on the endless coast,
+
+even in the beautiful interior desolations that never grew a single tree,
+we feel it when we hear the growing whisper of rain feeding
+the parched ground, or in the inward growth that makes
+what has been hidden begin to show its face in the world,
+
+the unspoken sense, not of being free now, but the anticipation
+of being allowed into something deeper, further, beyond our living
+in the everyday, into the beckoning endless land, into the blue-hilled
+horizon, into the oceans mounting roar, an unspoken
+and indescribable freedom just about to happen, reaching
+
+for that almost fatal shore, we walk the edge of this waiting land,
+riding forever, the slow, almost falling, but never-breaking wave
+of our longed-for arrival.
+
+
+
+
+:::{#cr-rabbit-clock}
+![](Australia.jpg)
+:::
+
+:::
+
+<!-- :::{.cr-section}
+
+
+@cr-chapter-1 
+
+:::{#cr-chapter-1}
+**CHAPTER I**
+:::
+
+ -->
+
+<!-- 
+:::{.cr-section}
+
+
+@cr-chapter-1 
+
+:::{#cr-chapter-1}
+**CHAPTER I**
+:::
+
+
+@cr-chapter
+
+:::{#cr-chapter}
+**Down the Rabbit-Hole**
+:::
+
+:::
+
+
+:::{.cr-section}
+[@cr-riverbank]  
+
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: 
+
+once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it,  
+“and what is the use of a book,” thought Alice “without pictures or conversations?”
+
+So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies,   
+
+
+when suddenly a White Rabbit with pink eyes ran close by her.
+
+:::{#cr-riverbank}
+![](riverbank2.webp)
+:::
+
+
+:::
+
+
+
+
+
+:::{.cr-section}
+[@cr-rabbit-clock]  
+
+There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear! Oh dear! I shall be late!”   
+
+but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, Alice started to her feet,    
+
+for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it,   
+
+and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.
+
+
+:::{#cr-rabbit-clock}
+![](rabbit-1.webp)
+:::
+
+:::
+
+
+:::{.cr-section}
+[@cr-down-the-rabbit-hole]  
+
+In another moment down went Alice after it, never once considering how in the world she was to get out again.  
+
+The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.  
+
+Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next.  
+
+First, she tried to look down and make out what she was coming to, but it was too dark to see anything;  
+
+then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves;  
+
+here and there she saw maps and pictures hung upon pegs.  
+
+She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: 
+
+she did not like to drop the jar for fear of killing somebody underneath, so managed to put it into one of the cupboards as she fell past it.
+
+“Well!” thought Alice to herself, “after such a fall as this, I shall think nothing of tumbling down stairs! How brave they’ll all think me at home! Why, I wouldn’t say anything about it, even if I fell off the top of the house!”
+
+
+Suddenly, thump! thump! down she came upon a heap of sticks and dry leaves, and the fall was over.
+
+
+:::{#cr-down-the-rabbit-hole}
+![](falling-down-the-rabbit-hole.webp)
+:::
+
+:::
+
+
+
+
+
+:::{.cr-section}
+[@cr-hall]  
+
+Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was still in sight, hurrying down it. There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, “Oh my ears and whiskers, how late it’s getting!” She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.
+
+
+
+
+
+:::{#cr-hall}
+![](hall.webp)
+:::
+
+:::
+ -->
