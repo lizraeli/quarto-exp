@@ -1,0 +1,1 @@
+[quarto](https://quarto.org/) and [Closeread](https://closeread.netlify.app/)
